@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thuctap_Server", "Thuctap_Server\Thuctap_Server.csproj", "{EA8D90D2-E56F-4F84-9FE8-3DB96528D6AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thuctap_API", "Thuctap_API\Thuctap_API.csproj", "{512D8E2A-5526-43C6-BEE2-2CA562094681}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thuctap_Client", "Thuctap_Client\Thuctap_Client.csproj", "{1DAB013D-56F8-4136-B369-EEFEB80443FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thuctap_Share", "Thuctap_Share\Thuctap_Share.csproj", "{FDC3DC28-BD3F-41CC-9F62-5EB66EEC2BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8D90D2-E56F-4F84-9FE8-3DB96528D6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8D90D2-E56F-4F84-9FE8-3DB96528D6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8D90D2-E56F-4F84-9FE8-3DB96528D6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8D90D2-E56F-4F84-9FE8-3DB96528D6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{512D8E2A-5526-43C6-BEE2-2CA562094681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512D8E2A-5526-43C6-BEE2-2CA562094681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512D8E2A-5526-43C6-BEE2-2CA562094681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512D8E2A-5526-43C6-BEE2-2CA562094681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAB013D-56F8-4136-B369-EEFEB80443FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAB013D-56F8-4136-B369-EEFEB80443FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAB013D-56F8-4136-B369-EEFEB80443FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAB013D-56F8-4136-B369-EEFEB80443FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC3DC28-BD3F-41CC-9F62-5EB66EEC2BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC3DC28-BD3F-41CC-9F62-5EB66EEC2BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC3DC28-BD3F-41CC-9F62-5EB66EEC2BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC3DC28-BD3F-41CC-9F62-5EB66EEC2BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2C7A29-F87E-4F75-9A95-C50C65A9F7FD}
+	EndGlobalSection
+EndGlobal
